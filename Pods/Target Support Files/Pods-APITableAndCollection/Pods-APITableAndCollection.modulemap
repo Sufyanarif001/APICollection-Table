@@ -1,0 +1,6 @@
+framework module Pods_APITableAndCollection {
+  umbrella header "Pods-APITableAndCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}
